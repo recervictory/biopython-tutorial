@@ -5,4 +5,4 @@
 ### 1.2 What can I find in the BioPython  package?
 ### 1.3 Insta BioPython
 
-### [Chapter 02: Quick Start - What can you do with BioPython?](https://github.com/recervictory/)
+### [Chapter 02: Quick Start - What can you do with BioPython?](https://github.com/recervictory/biopython-tutorial/blob/master/Chapter%2002%20-%20What%20can%20you%20do%20with%20BioPython.ipynb)
