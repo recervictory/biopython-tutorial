@@ -8,4 +8,4 @@
 ---
 ## [Chapter 02: Quick Start - What can you do with BioPython?](https://github.com/recervictory/biopython-tutorial/blob/master/Chapter%2002%20-%20What%20can%20you%20do%20with%20BioPython.ipynb)
 ---
-## [Chapter 03: Sequence objects](https://github.com/recervictory/)
+## [Chapter 03: Sequence objects](https://github.com/recervictory/biopython-tutorial/blob/master/Chapter%2003%20-%20Sequence%20objects.ipynb)
